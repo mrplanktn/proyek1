@@ -1,0 +1,10 @@
+# Penghitung Kata
+
+Proyek ini adalah penghitung kata sederhana yang membaca teks dari file dan menghitung jumlah kata, kalimat, dan paragraf.
+
+## Cara Menggunakan
+
+1. Simpan file `word_counter.py` di direktori proyek kamu.
+2. Jalankan script dengan Python:
+   ```bash
+   python word_counter.py
